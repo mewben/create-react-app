@@ -1,6 +1,6 @@
 {
-  "name": "react-scripts",
-  "version": "0.9.4",
+  "name": "mewben-react-scripts",
+  "version": "1.9.4",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebookincubator/create-react-app",
   "license": "BSD-3-Clause",
